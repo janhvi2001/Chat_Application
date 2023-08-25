@@ -1,0 +1,9 @@
+The database in this file runs with the help of xampp.
+
+It would be great if you browse preferably on Google Chrome or Mozilla Firefox with the below mentioned website :\
+
+**http://localhost/rtchat-ci/**
+
+To access the database please browse to the below given website :
+
+**http://localhost/phpmyadmin**
